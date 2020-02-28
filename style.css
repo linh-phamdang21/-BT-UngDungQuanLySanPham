@@ -1,0 +1,48 @@
+.container{
+    height: 80px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    width: 360px;
+}
+
+
+.table1{
+    margin-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.table2{
+    border-collapse: collapse;
+}
+
+.td1{
+    width: 350px;
+    height: 40px;
+}
+
+.td2{
+    width: 70px;
+    height: 40px;
+}
+
+.input1{
+    height: 25px;
+    width: 250px;
+    border-radius: 5px;
+}
+
+.button1{
+    height: 30px;
+    background-color: forestgreen;
+    color: white;
+    font-family: monospace;
+    border-radius: 5px;
+}
+
+.button2{
+    background-color: forestgreen;
+    color: white;
+    font-family: monospace;
+    border-radius: 5px;
+}
